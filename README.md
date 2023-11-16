@@ -12,7 +12,7 @@ https://denissonpereira.github.io/port-react/
 O **Portfólio Denisson** é uma aplicação web desenvolvida com **React** e **Sass**, construída durante uma aula do canal "Matheus Battisti - Hora de Codar". Este projeto tem como objetivo a criação de um portfólio pessoal que abrange informações sobre contatos, uma seção "Sobre mim" (About), tecnologias utilizadas e os projetos desenvolvidos.
 
 ## Layout mobile
-![Mobile 1](https://via.placeholder.com/150) ![Mobile 2](https://via.placeholder.com/150)
+![Mobile 1](./public/image/img1.jpeg) ![Mobile 2](./public/image/img2.jpeg)
 
 ## Layout web
 ![Web 1](/public/Captura1.png)
