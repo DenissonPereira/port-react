@@ -1,4 +1,4 @@
-# Portfolio Denisson 
+# Portfólio Denisson 
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/DenissonPereira/port-react/blob/main/LICENSE) 
 
 # Ver projeto
@@ -7,9 +7,9 @@ https://denissonpereira.github.io/port-react/
 
 # Sobre o projeto
 
-https://denissonpereira.github.io/RainbowCSS/
+## Portfólio Denisson: Uma Aplicação Web com React e Sass
 
-**RainbowCSS** é uma aplicação de front-end que oferece uma valiosa ferramenta aos usuários. Ela copia código em **CSS**, permitindo que as pessoas o utilizem facilmente em seus projetos escolhidos, simplificando o processo de design web. Com o **RainbowCSS**, os usuários podem acessar e aplicar estilos **CSS** de forma eficiente, aprimorando suas capacidades de design.
+O **Portfólio Denisson** é uma aplicação web desenvolvida com **React** e **Sass**, construída durante uma aula do canal "Matheus Battisti - Hora de Codar". Este projeto tem como objetivo a criação de um portfólio pessoal que abrange informações sobre contatos, uma seção "Sobre mim" (About), tecnologias utilizadas e os projetos desenvolvidos.
 
 ## Layout mobile
 ![Mobile 1](https://via.placeholder.com/150) ![Mobile 2](https://via.placeholder.com/150)
