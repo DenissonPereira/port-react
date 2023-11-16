@@ -1,8 +1,35 @@
-# React + Vite
+# Portfolio Denisson 
+[![NPM](https://img.shields.io/npm/l/react)](https://github.com/DenissonPereira/port-react/blob/main/LICENSE) 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# Sobre o projeto
 
-Currently, two official plugins are available:
+https://denissonpereira.github.io/RainbowCSS/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+**RainbowCSS** é uma aplicação de front-end que oferece uma valiosa ferramenta aos usuários. Ela copia código em **CSS**, permitindo que as pessoas o utilizem facilmente em seus projetos escolhidos, simplificando o processo de design web. Com o **RainbowCSS**, os usuários podem acessar e aplicar estilos **CSS** de forma eficiente, aprimorando suas capacidades de design.
+
+## Layout mobile
+![Mobile 1](https://via.placeholder.com/150) ![Mobile 2](https://via.placeholder.com/150)
+
+## Layout web
+![Web 1](/public/Captura1.png)
+
+![Web 2](/public/Captura2.png)
+
+# Tecnologias utilizadas
+## Front end
+- HTML
+- CSS
+- JavaScript
+
+## Implantação em produção
+- Front end web: GitHub Pages
+
+# Como executar o projeto
+
+[Clique aqui](https://denissonpereira.github.io/RainbowCSS/)
+
+# Autor
+
+Denisson Pereira Santos
+
+https://github.com/DenissonPereira
