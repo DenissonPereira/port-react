@@ -18,10 +18,9 @@ O **Portfólio Denisson** é uma aplicação web desenvolvida com **React** e **
 ![Web 1](/public/image/web.png)
 
 # Tecnologias utilizadas
-## Front end
-- HTML
-- CSS
-- JavaScript
+
+- React
+- Sass
 
 ## Implantação em produção
 - Front end web: GitHub Pages
