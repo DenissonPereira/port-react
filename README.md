@@ -14,6 +14,10 @@ O **Portfólio Denisson** é uma aplicação web desenvolvida com **React** e **
 ## Layout mobile
 ![Mobile 1](./public/image/img1.jpeg) ![Mobile 2](./public/image/img2.jpeg)
 
+## Layout mobile
+<img src="./public/image/img1.jpeg" alt="Mobile 1" width="200" height="400"/> <img src="./public/image/img2.jpeg" alt="Mobile 2" width="200" height="400"/>
+
+
 ## Layout web
 ![Web 1](/public/Captura1.png)
 
