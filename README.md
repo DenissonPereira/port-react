@@ -23,11 +23,11 @@ O **Portfólio Denisson** é uma aplicação web desenvolvida com **React** e **
 - Sass
 
 ## Implantação em produção
-- Front end web: GitHub Pages
+- GitHub Pages
 
 # Como executar o projeto
 
-[Clique aqui](https://denissonpereira.github.io/RainbowCSS/)
+- npm run dev
 
 # Autor
 
