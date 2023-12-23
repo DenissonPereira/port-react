@@ -21,9 +21,11 @@ Dê uma espiada nas imagens abaixo para ter uma prévia visual do projeto em aç
 ### 💻 Layout web
 ![Web 1](/public/image/web.png)
 
-### 📱 Layout mobile
-![Mobile 1](./public/image/img1.jpeg) ![Mobile 2](./public/image/img2.jpeg)
+![Web 2](./public/image/img2.jpeg)
 
+
+### 📱 Layout mobile
+![Mobile 1](./public/image/img1.jpeg) 
 ## 📚 Stack Tecnológica
 
 [![Badge](https://img.shields.io/badge/Vite%20-%238A2BE2?style=flat&logo=vite&logoColor=white)](https://vitejs.dev/)
